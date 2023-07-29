@@ -1,0 +1,2 @@
+ÿ[33m13:15:09.391[0;39m [31mWARN[0;39m [32m[Test worker][0;39m [36mi.n.r.d.DnsServerAddressStreamProviders[0;39m - Can not find io.netty.resolver.dns.macos.MacOSDnsServerAddressStreamProvider in the classpath, fallback to system defaults. This may result in incorrect DNS resolutions on MacOS. Check whether you have a dependency on 'io.netty:netty-resolver-dns-native-macos'
+!HTTP server started on port 8888

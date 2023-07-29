@@ -1,0 +1,3 @@
+”[33m19:24:10.350[0;39m [34mINFO[0;39m [32m[vert.x-eventloop-thread-0][0;39m [36mn.n.v.MainVerticle[0;39m - HTTP server started on port 8888
+Ñ[33m19:24:10.511[0;39m [34mINFO[0;39m [32m[vert.x-eventloop-thread-0][0;39m [36mn.n.v.AssetsRestApi[0;39m - Path /assets responds with [{"name":"AAPL"},{"name":"AMZN"},{"name":"NFLX"},{"name":"TSLA"}]
+Ä[33m19:24:10.529[0;39m [34mINFO[0;39m [32m[vert.x-eventloop-thread-1][0;39m [36mn.n.v.TestAssetsRestApi[0;39m - Response: [{"name":"AAPL"},{"name":"AMZN"},{"name":"NFLX"},{"name":"TSLA"}]

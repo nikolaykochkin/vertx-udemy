@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="name.nikolaikochkin.vertx_stock_broker.TestAssetsRestApi" tests="1" skipped="0" failures="0" errors="0" timestamp="2023-07-28T17:24:10" hostname="MBP-Nikolay.home" time="0.415">
+  <properties/>
+  <testcase name="shouldReturnAllAssets(Vertx, VertxTestContext)" classname="name.nikolaikochkin.vertx_stock_broker.TestAssetsRestApi" time="0.415"/>
+  <system-out><![CDATA[?[33m19:24:10.350?[0;39m ?[34mINFO?[0;39m ?[32m[vert.x-eventloop-thread-0]?[0;39m ?[36mn.n.v.MainVerticle?[0;39m - HTTP server started on port 8888
+?[33m19:24:10.511?[0;39m ?[34mINFO?[0;39m ?[32m[vert.x-eventloop-thread-0]?[0;39m ?[36mn.n.v.AssetsRestApi?[0;39m - Path /assets responds with [{"name":"AAPL"},{"name":"AMZN"},{"name":"NFLX"},{"name":"TSLA"}]
+?[33m19:24:10.529?[0;39m ?[34mINFO?[0;39m ?[32m[vert.x-eventloop-thread-1]?[0;39m ?[36mn.n.v.TestAssetsRestApi?[0;39m - Response: [{"name":"AAPL"},{"name":"AMZN"},{"name":"NFLX"},{"name":"TSLA"}]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
